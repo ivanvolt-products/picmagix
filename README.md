@@ -119,10 +119,6 @@
 
 <div align="center">
 
-### 🌟 如果这个项目对您有帮助，请给个Star支持一下！
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/picmagix?style=social)](https://github.com/ivanvolt-products/picmagix/stargazers)
-
 **让AI赋能您的创意，从PicMagix开始！** ✨
 
 </div> 
