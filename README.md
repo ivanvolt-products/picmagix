@@ -12,7 +12,7 @@
 
 *通过先进的计算机视觉技术，深度解析图片内容，一键生成多样化的创意输出*
 
-[📱 在线体验](https://your-demo-link.com) • [📖 文档](https://your-docs-link.com) • [🎯 功能演示](#功能演示)
+[📱 在线体验](https://picmagix.com) • [🎯 功能演示]([#功能演示](https://www.youtube.com/embed/jyX9RnQZI-4)
 
 </div>
 
@@ -25,6 +25,8 @@
 💼 **商业就绪** - 完整的用户认证、订阅管理、配额控制系统  
 🌍 **国际化** - 支持多语言界面和AI分析结果输出  
 📱 **响应式** - 完美适配桌面端和移动端设备  
+
+</br>
 
 ## 🎯 核心功能
 
@@ -47,6 +49,8 @@
 - **批量处理** - Pro用户专享的批量分析功能
 - **优先支持** - 专业用户的优先技术支持
 
+</br>
+
 ## 🛠️ 技术架构
 
 ### 前端技术栈
@@ -67,23 +71,6 @@
 ☁️  Vercel                      - 全球CDN加速部署
 ```
 
-## 💰 商业模式
-
-### 🆓 FREE (免费版)
-- 20个终身分析配额
-- 基础功能 + 高级分析预览
-- 导出带水印
-
-### 🚀 STARTER ($6.90/月)
-- 500个月度配额
-- 全功能无限制
-- 无水印导出
-
-### 💎 PRO ($24.90/月)
-- 无限月度配额
-- 快速处理通道
-- 优先技术支持
-
 ## 🎯 目标用户
 
 | 用户群体 | 使用场景 | 核心价值 |
@@ -101,30 +88,19 @@
 📷 上传图片 → 🤖 AI分析 → 📊 结果展示 → 🎨 模板生成 → 📤 导出分享
 ```
 
-### 分析结果示例
+### 分析结果展示
+
 - **物体识别**: "检测到: 猫咪, 沙发, 阳光, 植物"
 - **场景分析**: "温馨的室内环境，午后阳光"  
 - **颜色方案**: "主色调: 暖黄色系, 辅助色: 棕色, 绿色"
 - **情感判断**: "放松、温暖、治愈"
 
-## 📈 技术亮点
-
-### 🔥 现代化架构
-- **类型安全**: 全面的TypeScript支持，零any类型
-- **性能优化**: SSR + 客户端缓存 + CDN加速
-- **可扩展性**: 模块化设计，易于扩展和维护
-
-### 🎯 商业化就绪
-- **支付系统**: 完整的Stripe集成和订阅管理
-- **用户系统**: 专业级的身份认证和权限控制  
-- **数据分析**: 完善的用户行为追踪和业务指标
-
-### 🌍 用户体验
-- **国际化**: 中英文界面 + 8种语言AI输出
-- **响应式**: 完美适配桌面、平板、手机
-- **无障碍**: 遵循WCAG标准的可访问性设计
-
 ## 🙏 特别感谢
+<img width="472" alt="iShot_2024-12-24_11 57 26" src="https://github.com/user-attachments/assets/8ed788de-d980-48f3-b2e0-5724d08a5152" />
+<img width="468" alt="iShot_2024-12-24_11 56 08" src="https://github.com/user-attachments/assets/4d57a01b-4d2e-4e00-960c-03b33f78ca91" />
+<img width="1554" alt="iShot_2025-01-08_21 35 57" src="https://github.com/user-attachments/assets/06d8d909-e54b-41a5-9156-ecce25dc0ef4" />
+<img width="1040" alt="iShot_2024-12-24_12 00 47" src="https://github.com/user-attachments/assets/a04fe0f5-a380-480f-8c2d-9d3dbb098853" />
+
 
 - 🤖 [Google Gemini](https://deepmind.google/technologies/gemini/) - 强大的AI视觉能力
 - 🔐 [Clerk](https://clerk.com/) - 优秀的用户认证服务  
@@ -142,8 +118,7 @@
 
 ### 🌟 如果这个项目对您有帮助，请给个Star支持一下！
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/picmagix?style=social)](https://github.com/yourusername/picmagix/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/picmagix?style=social)](https://github.com/yourusername/picmagix/network)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/picmagix?style=social)](https://github.com/ivanvolt-products/picmagix/stargazers)
 
 **让AI赋能您的创意，从PicMagix开始！** ✨
 
