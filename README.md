@@ -12,7 +12,7 @@
 
 *通过先进的计算机视觉技术，深度解析图片内容，一键生成多样化的创意输出*
 
-[📱 在线体验](https://picmagix.com) • [🎯 功能演示]([#功能演示](https://www.youtube.com/embed/jyX9RnQZI-4)
+[📱 在线体验](https://picmagix.com) • [🎯 功能演示](https://www.youtube.com/embed/jyX9RnQZI-4)
 
 </div>
 
@@ -71,6 +71,8 @@
 ☁️  Vercel                      - 全球CDN加速部署
 ```
 
+</br>
+
 ## 🎯 目标用户
 
 | 用户群体 | 使用场景 | 核心价值 |
@@ -81,6 +83,8 @@
 | 🎨 **设计师** | 创意灵感获取 | AI辅助的设计分析和建议 |
 | 👥 **普通用户** | 个人照片美化 | 简单易用的图片增强工具 |
 
+</br>
+
 ## 🌟 功能演示
 
 ### 智能分析流程
@@ -90,23 +94,22 @@
 
 ### 分析结果展示
 
-- **物体识别**: "检测到: 猫咪, 沙发, 阳光, 植物"
-- **场景分析**: "温馨的室内环境，午后阳光"  
-- **颜色方案**: "主色调: 暖黄色系, 辅助色: 棕色, 绿色"
-- **情感判断**: "放松、温暖、治愈"
-
-## 🙏 特别感谢
 <img width="472" alt="iShot_2024-12-24_11 57 26" src="https://github.com/user-attachments/assets/8ed788de-d980-48f3-b2e0-5724d08a5152" />
 <img width="468" alt="iShot_2024-12-24_11 56 08" src="https://github.com/user-attachments/assets/4d57a01b-4d2e-4e00-960c-03b33f78ca91" />
 <img width="1554" alt="iShot_2025-01-08_21 35 57" src="https://github.com/user-attachments/assets/06d8d909-e54b-41a5-9156-ecce25dc0ef4" />
 <img width="1040" alt="iShot_2024-12-24_12 00 47" src="https://github.com/user-attachments/assets/a04fe0f5-a380-480f-8c2d-9d3dbb098853" />
 
+</br>
+
+## 🙏 特别感谢
 
 - 🤖 [Google Gemini](https://deepmind.google/technologies/gemini/) - 强大的AI视觉能力
 - 🔐 [Clerk](https://clerk.com/) - 优秀的用户认证服务  
 - 🗄️ [Supabase](https://supabase.com/) - 现代化的后端服务
 - 💳 [Stripe](https://stripe.com/) - 可靠的支付解决方案
 - 🎨 [Shadcn/ui](https://ui.shadcn.com/) - 精美的UI组件
+
+</br>
 
 ## 📞 联系我们
 
