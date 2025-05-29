@@ -94,8 +94,8 @@
 
 ### 分析结果展示
 
-<img width="472" alt="iShot_2024-12-24_11 57 26" src="https://github.com/user-attachments/assets/8ed788de-d980-48f3-b2e0-5724d08a5152" />
-<img width="468" alt="iShot_2024-12-24_11 56 08" src="https://github.com/user-attachments/assets/4d57a01b-4d2e-4e00-960c-03b33f78ca91" />
+<img width="450" alt="iShot_2024-12-24_11 57 26" src="https://github.com/user-attachments/assets/8ed788de-d980-48f3-b2e0-5724d08a5152" />
+<img width="450" alt="iShot_2024-12-24_11 56 08" src="https://github.com/user-attachments/assets/4d57a01b-4d2e-4e00-960c-03b33f78ca91" />
 <img width="1554" alt="iShot_2025-01-08_21 35 57" src="https://github.com/user-attachments/assets/06d8d909-e54b-41a5-9156-ecce25dc0ef4" />
 <img width="1040" alt="iShot_2024-12-24_12 00 47" src="https://github.com/user-attachments/assets/a04fe0f5-a380-480f-8c2d-9d3dbb098853" />
 
